@@ -19,6 +19,7 @@ MAX4466：OUT->P0
 
 
 
-资料参考：
+### 资料参考：
 https://blog.csdn.net/mc_li/article/details/81364766
+
 https://github.com/JayeGu/FFT-Arduino-OLED.git
