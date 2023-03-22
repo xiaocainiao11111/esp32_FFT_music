@@ -43,6 +43,6 @@ void loop() {
   }
   display.display(); //推送
   memcpy(vTemp, vReal, NumofCopy);
-  delay(5);  //改为128点时可以注释掉，防止刷新太慢
+  delay(2);  //改为128点时可以注释掉，防止刷新太慢
 }
  
