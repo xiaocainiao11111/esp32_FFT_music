@@ -1,5 +1,5 @@
 # esp32_FFT_music
-<img src=https://github.com/xiaocainiao11111/esp32_FFT_music/blob/main/image/111.jpg width=40% />
+<img src=https://github.com/xiaocainiao11111/esp32_FFT_music/blob/main/image/111.jpg width=80% />
 ## 1、说明
 在esp32上实现简易的声音频谱，只用到两个库：arduinoFFT和adafruit SSD1306。
 
